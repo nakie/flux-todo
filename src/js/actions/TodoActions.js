@@ -1,15 +1,4 @@
-Skip to content
-Personal Open source Business Explore
-Sign upSign inPricingBlogSupport
-This repository
-Search
- Watch 661  Star 11,943  Fork 3,257 facebook/flux
- Code  Issues 18  Pull requests 18  Wiki  Pulse  Graphs
-Branch: master Find file Copy pathflux/examples/flux-todomvc/js/actions/TodoActions.js
-ddbb208  Apr 2, 2015
-@guyellis guyellis Fixed name to reduce confusion.
-5 contributors @guyellis @zpao @APTy @vjeux @fisherwebdev
-RawBlameHistory     86 lines (74 sloc)  1.74 KB
+
 /*
  * Copyright (c) 2014-2015, Facebook, Inc.
  * All rights reserved.
@@ -95,5 +84,3 @@ var TodoActions = {
 };
 
 module.exports = TodoActions;
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help

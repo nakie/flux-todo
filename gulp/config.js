@@ -36,7 +36,7 @@ module.exports = {
     debug: true,
     extensions: ['.jsx'],
     bundleConfigs: [{
-      entries: src + '/js/app.jsx',
+      entries: src + '/js/app.js',
       dest: dest + '/',
       outputName: 'app.js'
     }]
