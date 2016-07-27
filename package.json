@@ -44,8 +44,10 @@
   "dependencies": {
     "babel": "^6.5.2",
     "bootstrap": "^3.3.6",
+    "classnames": "^2.2.5",
     "flux": "^2.1.1",
     "immutable": "^3.8.1",
+    "keymirror": "^0.1.1",
     "object-assign": "^4.1.0",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
